@@ -3,3 +3,5 @@
 notes/
 .idea/
 .DS_Store
+.gradio/
+__pycache__/
